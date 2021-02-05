@@ -33,6 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natanlimap&show_icons=true&locale=en" alt="natanlimap" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natanlimap&" alt="natanlimap" /></p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=natanlimap)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natanlimap" alt="natanlimap" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=natanlimap" alt="natanlimap" /></p>
+
 
