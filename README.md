@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanlimap&show_icons=true&locale=pt-br&hide=Jupyter%20Notebook" alt="natanlimap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natanlimap&show_icons=true&locale=en" alt="natanlimap" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanlimap&show_icons=true&locale=en&hide=Jupyter%20Notebook" alt="natanlimap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natanlimap&" alt="natanlimap" /></p>
