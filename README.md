@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Natanlimap](https://github.com/Natanlimap)
 
-- 💬 Ask me about **Dart, Flutter,Javascript, Next Js and Css**
+- 💬 Ask me about **Dart, Flutter,Javascript, Next Js and Tailwind Css**
 
 - 📫 How to reach me **natanlimap@gmail.com**
 
