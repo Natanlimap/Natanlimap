@@ -35,6 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natanlimap" alt="natanlimap" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=natanlimap" alt="natanlimap" /></p>
-
-
