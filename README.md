@@ -5,21 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natanlimap" alt="natanlimap" /></a> </p>
 
-- 🔭 I’m currently working on [Discord Bot in Python](https://github.com/Natanlimap/python-discord-bot)
-
-- 🌱 I’m currently learning **Machine Learning and A.I**
-
-- 🤝 I’m looking for help with [Discord Bot in Python](https://github.com/Natanlimap/python-discord-bot)
+- 🌱 Currently I have focused my studies on Flutter and Dart, exploring design patterns covering topics such as project architecture, good programming practices, scalability and user experience.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Natanlimap](https://github.com/Natanlimap)
 
-- 💬 Ask me about **Dart, Flutter,Javascript, React js, Node js and Tailwind Css**
+- 💬 Ask me about **Dart, Flutter,Javascript, React js, Node js**
 
 - 📫 How to reach me **natanlimap@gmail.com**
 
-- 📄 Know about my experiences [I am currently working as a front-end developer at UFRN and I am developing a django application with the team in order to carry out the epidemiological monitoring of the state of Rio Grande do Norte. In addition to this project, I have worked with several website projects (using different frameworks) and mobile applications (mainly in flutter).](I am currently working as a front-end developer at UFRN and I am developing a django application with the team in order to carry out the epidemiological monitoring of the state of Rio Grande do Norte. In addition to this project, I have worked with several website projects (using different frameworks) and mobile applications (mainly in flutter).)
+- 📄 Know about my experiences [I am currently working as a Flutter developer at UFRN in SVPRO APP project that has the purpose of developing an application that will be an intelligent mobile solution called an on-board computer, smartphones and tablets, through which it will be possible to manage vehicles and provide resources such as an inclinometer, rotogram, logistics control, GPRS and WiFi communication. Fi, telemetry and others..](I am currently working as a Flutter developer at UFRN in SVPRO APP project that has the purpose of developing an application that will be an intelligent mobile solution called an on-board computer, smartphones and tablets, through which it will be possible to manage vehicles and provide resources such as an inclinometer, rotogram, logistics control, GPRS and WiFi communication. Fi, telemetry and others...)
 
-- ⚡ Fun fact **I am passionate about working with javascript. I feel I can do so much with little effort**
+- ⚡ Fun fact **I am passionate about working with flutter. I feel I can do so much with little effort**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
