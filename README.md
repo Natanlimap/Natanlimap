@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Natanlimap](https://github.com/Natanlimap)
 
-- 💬 Ask me about **Dart, Flutter,Javascript, React js, Node js**
+- 💬 Ask me about **Dart and Flutter**
 
 - 📫 How to reach me **natanlimap@gmail.com**
 
