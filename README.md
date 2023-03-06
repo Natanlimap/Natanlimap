@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **natanlimap@gmail.com**
 
-- 📄 Know about my experiences [I am currently working as a Flutter developer at UFRN in SVPRO APP project that has the purpose of developing an application that will be an intelligent mobile solution called an on-board computer, smartphones and tablets, through which it will be possible to manage vehicles and provide resources such as an inclinometer, rotogram, logistics control, GPRS and WiFi communication. Fi, telemetry and others..](I am currently working as a Flutter developer at UFRN in SVPRO APP project that has the purpose of developing an application that will be an intelligent mobile solution called an on-board computer, smartphones and tablets, through which it will be possible to manage vehicles and provide resources such as an inclinometer, rotogram, logistics control, GPRS and WiFi communication. Fi, telemetry and others...)
+- 📄 Linkedin: **https://www.linkedin.com/in/natan-lima-2ba58b183/**
 
 - ⚡ Fun fact **I am passionate about working with flutter. I feel I can do so much with little effort**
 
