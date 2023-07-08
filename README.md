@@ -1,9 +1,6 @@
 # Hello! 👋
 
 I'm Natan de Lima, a Senior Software Engineer specializing in Flutter.
-
-Here's a Flutter widget that represents me:
-
 ```dart
 class Developer extends StatelessWidget with TechnicalSkills, SoftSkills {
   Developer({Key? key})
