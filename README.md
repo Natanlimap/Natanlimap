@@ -1,27 +1,70 @@
-# Hi 👋, I'm Natan de Lima Pereira
-## A passionate Flutter developer from Brazil
+# Hello! 👋
 
-I'm a passionate software developer whose goal is to turn complexities into elegant solutions, using Flutter as my primary tool for over four years. I'm driven by a love for challenges, a quest for innovative solutions, and the opportunity to be part of a dedicated team that shares the same purpose.
+I'm Natan de Lima, a Senior Software Engineer specializing in Flutter.
 
-I admire the beauty behind well-written code and efficient architecture, and work relentlessly to create and maintain such standards in all my tasks. I believe that my technical proficiency, combined with my solution-oriented mindset and desire to work in collaborative environments, are crucial to delivering high-quality software solutions.
+Here's a Flutter widget that represents me:
 
-## Technical Skills
-- Specialist in Flutter and Dart
-- Substantial experience with Swift and Kotlin
-- Proficient in mobile development, package, and plugin creation
-- Implementation of scalable architectures
-- Competent with Firebase
-- Dependency Injection with Get_it, Provider, and Modular
-- Robust experience in Continuous Integration/Continuous Deployment (CI/CD)
-- Advanced code review skills
-- Effective bug resolution
+```dart
+class Developer extends StatelessWidget with TechnicalSkills, SoftSkills {
+  Developer({Key? key})
+      : super(
+            key: key,
+            name: 'Natan de Lima',
+            experienceYears: 4,
+            tool: 'Flutter',
+            isPassionate: true,
+            isSolutionOriented: true,
+            isProactive: true);
 
-## Interpersonal Skills
-- Ability to work well in a team
-- Excellent communication skills
-- Proactiveness and leadership
+  final String name;
+  final int experienceYears;
+  final String tool;
+  final bool isPassionate;
+  final bool isSolutionOriented;
+  final bool isProactive;
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        body: Center(
+          child: Text('Transforming complexities into elegant solutions. 
+                       Built with $tool. 
+                       Total years of experience: $experienceYears'),
+        ),
+      ),
+    );
+  }
+
+  @override
+  List<TechnicalSkills> get technicalSkills => [
+        FlutterDartExpert(),
+        ScalableArchitectureCreator(),
+        CI_CDImplementer(),
+        BugsSolver(),
+      ];
+
+  @override
+  List<SoftSkills> get softSkills => [
+        TeamWorker(),
+        QuickLearner(),
+        EffectiveDecisionMaker(),
+        PressureHandler(),
+        DeadlineMeet(),
+      ];
+}
+```
+
+This widget exemplifies my passion for transforming complexities into elegant, effective solutions using Flutter, which has been my primary tool for over four years.
+
+## Hard Skills
+- Expert in Flutter and Dart
+- Development of scalable software architectures
+- Implementation of Continuous Integration / Continuous Delivery (CI/CD)
+- Efficient bug solving and performance optimization
+
+## Soft Skills
+- Excellent teamwork and communication skills
+- Proactive and capable of making effective decisions
 - Ability to quickly learn and adapt to new technologies
-- Skill in working under pressure and meeting deadlines
-- Solution-oriented approach and effective decision making
-
-Outside of work, I find balance and inspiration in hobbies like fishing, surfing, and running. These activities reflect my commitment to continuous learning, challenge, and exploration of the unknown, qualities that I bring to my work every day.
+- Skill in handling pressure and meeting deadlines
